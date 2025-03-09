@@ -6,8 +6,8 @@ This is the frontend of my project, built using modern web technologies to provi
 
 ## Live Links
 
-- **Backend GitHub Repository**: [[Pstman Collection Link]([https://github.com/AbdulWahabRaza123/task_management](https://www.postman.com/dark-station-612385/workspace/api-dev/collection/26175871-1f305aef-3cf1-4983-ae35-41bb26a5474b?action=share&creator=26175871))]
-- **Postman Collection Link**: [[Backend Repo Link](https://github.com/AbdulWahabRaza123/task_management)]
+- **Postman Collection Link**: [[Postman Collection Link](https://www.postman.com/dark-station-612385/workspace/api-dev/collection/26175871-1f305aef-3cf1-4983-ae35-41bb26a5474b?action=share&creator=26175871)]
+- **Backend GitHub Repository** [[Backend Repo Link](https://github.com/AbdulWahabRaza123/task_management)]
 - **Deployed Backend URL**: [[Backend Production Link](https://task-manage-two-silk.vercel.app/)]
 - **Demo Video**: [[Demo Video Link](https://drive.google.com/file/d/1NRs4XL_mPYduFth4O9JXL4yMZ6xJQDzW/view?usp=sharing)]
 - **Deployed Frontend**: [[Frontend Production Link](https://task-manage-frontend-dl95.vercel.app/)]
